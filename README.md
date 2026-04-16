@@ -9,3 +9,5 @@ Each resume is scored in three ways. First, the project calculates a **basic key
 The project also includes multiple visualizations to make the results explainable and portfolio-friendly. These include score distribution comparisons, top matched hard skills, top matched concepts, category-level score analysis, ranking-change comparisons between methods, heatmaps by candidate category, and an explainability chart showing which matched features contributed to the top candidate’s score. These visuals help demonstrate not only the final ranking, but also *why* certain candidates rank higher under different matching approaches.
 
 Overall, this project demonstrates practical skills in **text preprocessing, rule-based NLP, feature engineering, scoring design, visualization, and explainable candidate ranking**. It is intended as both a resume screening prototype and a portfolio project showing how domain knowledge can improve basic NLP matching for recruitment analytics.
+
+The resume dataset used in this project can be found on Kaggle here: https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
