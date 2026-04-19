@@ -289,14 +289,6 @@ Possible next steps include:
 
 ---
 
-## One-Minute Explanation
-
-Here is a compact way to explain the project in an interview or on a portfolio page:
-
-> I built an explainable NLP-based resume matcher for Data Scientist roles. The project compares a job description against a resume database using three methods: a basic keyword matcher, a hard-skill matcher, and a concept-aware weighted matcher. The core idea was to show that naive keyword overlap is not enough for candidate ranking, because it misses deeper evidence of technical and analytical fit. I designed dictionaries for hard skills and data science concepts, activated the parts relevant to the job description, and then ranked candidates based on weighted matches. The results showed meaningful differences in score distributions and candidate ranking, especially when moving from simple overlap to role-aware scoring. The project demonstrates text preprocessing, feature engineering, explainable scoring, and visualization for recruitment analytics.
-
----
-
 ## Dataset Source
 
 The resume dataset referenced in the project is:
